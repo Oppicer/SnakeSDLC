@@ -46,5 +46,5 @@ The goal is to create a lighthearted, fun, and addictive game that brings a uniq
 
 ---
 
-This proposal will guide the development of *Slug Chase*, ensuring the team stays focused on the core vision while refining ideas based on testing and feedback.
+
 
